@@ -1,0 +1,23 @@
+Water - Done
+Grass - Done
+Sand - Done
+Snow - Done
+Ice - Done
+
+Oak Tree - Done
+Palm Tree
+Spruce Tree
+Long Grass
+
+Use Seed from world plus the X and Y of the center of the river for seed,
+3x3 river will move left, stay in center, or right, dependent on seed.
+
+Should make something like this?:
+|---|
+---||
+|---|
+||---
+||---
+---||
+
+100% Dumb but should work fine for what I need, probably.
